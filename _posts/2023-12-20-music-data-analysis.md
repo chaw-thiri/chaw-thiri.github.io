@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Data Analysis on Most Popular Spotify Songs of 2023"
+title: Data Analysis on Most Popular Spotify Songs of 2023
 lead: Data Analysis using Python, Pandas, Numpy, MatplotLib and Seaborn
 ---
-
+🔍
 
 Analyzed the major and minor modes' influence on stream count.
 Explored correlations between BPM, danceability, and stream counts.
@@ -19,7 +19,7 @@ For the dataset, I refereneced it from the [Kaggle](https://www.kaggle.com/datas
 Uncovered fascinating insights into how musical elements impact streaming popularity.
 Visualized trends through interactive Jupyter notebooks.
 
-# 👉 Check out the project on My GitHub: 
+## 👉 Check out the project on My GitHub: 
 [Music Data Analysis](https://github.com/chaw-thiri/Music-Analysis)
 
 🙏 I welcome your thoughts, feedback, and contributions. 
