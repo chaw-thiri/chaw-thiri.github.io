@@ -1,30 +1,28 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Chaw Thiri San | A Programmer
+description: Portfolio site by Chaw 
+taglong: Portfolio site or Blog by Chaw Thiri San
+tagshort: Chaw Site
+url: https://chaw.compare/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/chaw-thiri/chaw-thiri.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Chaw
+  email: chawthiri177@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  github: chaw-thiri
+  instagram: chaw_chaw_01
+  linkedin: Chaw Thiri San
+  
 
 # build settings
 
