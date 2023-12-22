@@ -10,5 +10,5 @@ With this modification, each client that connects to the server will be processe
 
 ## 👉 Check out the project on My GitHub: 
 Click the link [here](https://github.com/chaw-thiri/Computer-Network/tree/main/TCP/setting_up_tcp_server_with_multithreading) to see the project
-![Sample img](chaw-thiri/chaw-thiri.github.io/_posts/image-1.png)
+![Sample img](assets/jpg/image-1.png)
 🙏 I welcome your thoughts, feedback, and contributions. 
