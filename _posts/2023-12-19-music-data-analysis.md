@@ -20,7 +20,7 @@ Uncovered fascinating insights into how musical elements impact streaming popula
 Visualized trends through interactive Jupyter notebooks.
 
 ## 👉 Check out the project on My GitHub: 
-[Music Data Analysis](chaw-thiri/chaw-thiri.github.io/assets/jpg/image.png)
+[Music Data Analysis](/assets/jpg/image.png)
 ![Analysing the relation between percentage of danceablity and Stream counts on Spotify](chaw-thiri/chaw-thiri.github.io/_posts/image.png)
 
 🙏 I welcome your thoughts, feedback, and contributions. 

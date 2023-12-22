@@ -42,7 +42,7 @@ a.	**The snake and the food will change color** randomly every time the user run
 ![Snake colors](/assets/snake%20color.png)
 
 ### Figure 2: Food colors
-![Food colors](chaw-thiri/chaw-thiri.github.io/assets/jpg/food color.png)
+![Food colors](/assets/jpg/food%20color.png)
 Functionality test and Explanation of the code 
 [Functionality Test](https://www.youtube.com/watch?v=oT9RIQdWOVE&feature=youtu.be)
 [Detailed Explanation of the code](https://www.youtube.com/watch?v=CAOCpaukXAw&feature=youtu.be)
