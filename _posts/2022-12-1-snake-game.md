@@ -39,7 +39,7 @@ b.	Sound source: 05 - Double Trouble - Harry Potter and the Prisoner of Azkaban 
 a.	**The snake and the food will change color** randomly every time the user runs the code. There are 9 possible color options for the snakes and 4 for the food.
 
 ### Figure 1: Snake colors
-![Snake colors](assets/snake color.png)
+![Snake colors](/assets/snake%20color.png)
 
 ### Figure 2: Food colors
 ![Food colors](chaw-thiri/chaw-thiri.github.io/assets/jpg/food color.png)
