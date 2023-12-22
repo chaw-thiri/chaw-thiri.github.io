@@ -8,4 +8,5 @@ A UDP (User Datagram Protocol) server using sockets is a program that listens fo
 
 ## 👉 Check out the project on My GitHub: 
 Click the link [here](https://github.com/chaw-thiri/Computer-Network/tree/main/UDP/UPD_Server_For_Multiple_clients)
-![Sample img](image-2.png)
+![Sample img](_posts/image-2.png)
+🙏 I welcome your thoughts, feedback, and contributions. 
