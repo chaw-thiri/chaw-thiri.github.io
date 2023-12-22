@@ -21,6 +21,6 @@ Visualized trends through interactive Jupyter notebooks.
 
 ## 👉 Check out the project on My GitHub: 
 [Music Data Analysis](https://github.com/chaw-thiri/Music-Analysis)
-![Analysing the relation between percentage of danceablity and Stream counts on Spotify](_posts/image.png)
+![Analysing the relation between percentage of danceablity and Stream counts on Spotify](chaw-thiri/chaw-thiri.github.io/_posts/image.png)
 
 🙏 I welcome your thoughts, feedback, and contributions. 
