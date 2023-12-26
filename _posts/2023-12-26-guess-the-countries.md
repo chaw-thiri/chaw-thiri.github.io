@@ -11,7 +11,7 @@ Explore your U.S. geography knowledge with the **"Guess the 50 States" game**, a
 ![A screenshot of our game](/assets/jpg/guess_states.png)
 
 ## 👉 Check out the project on My GitHub: 
-click [here](https://github.com/chaw-thiri/Music_Label_Database) to see the source code.
+click [here](https://github.com/chaw-thiri/Python-Practicee/tree/main/US_States) to see the source code.
 
 
 🙏 I welcome your thoughts, feedback, and contributions. 
