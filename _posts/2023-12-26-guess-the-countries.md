@@ -10,5 +10,5 @@ This Python script utilizes the Turtle graphics library and pandas to create an 
 ## Gameplay
 The game displays a map of the United States with state borders and names hidden.
 The user is prompted to guess the names of the states by entering them through the input dialog.
-Typing "Exit" at any time allows the user to exit the game.
+Typing **Exit** at any time allows the user to exit the game.
 After exiting, the script saves the remaining states to a CSV file named "States_to_learn.csv."
