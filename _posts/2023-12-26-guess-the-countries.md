@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Guess the states🗺️
-lead: What's is the name of the state?
+lead: Do you know all the states of US?
 ---
-
 # Guess the 50 States Game
-This Python script utilizes the Turtle graphics library and pandas to create an interactive game called "Guess the 50 States." The game displays a map of the United States, and the user is prompted to guess the names of each state. The user can exit the game at any time, and the script will save the remaining states to a CSV file for further learning.
+Explore your U.S. geography knowledge with the **"Guess the 50 States" game**, a fun and interactive project created using Python's Turtle graphics module. Test your skills by identifying each state on a blank map, track your progress, and enjoy an engaging learning experience.
+> The game features a custom map background, real-time scoring, and a time tracking system.    
+ Try it out and challenge yourself to name all 50 states correctly!     
+# A look into our game 
+![A screenshot of our game](/assets/jpg/guess_states.png)
 
-## Gameplay
-The game displays a map of the United States with state borders and names hidden.
-The user is prompted to guess the names of the states by entering them through the input dialog.
-Typing **Exit** at any time allows the user to exit the game.
-After exiting, the script saves the remaining states to a CSV file named "States_to_learn.csv."
+## 👉 Check out the project on My GitHub: 
+click [here](https://github.com/chaw-thiri/Music_Label_Database) to see the source code.
+
+
+🙏 I welcome your thoughts, feedback, and contributions. 
