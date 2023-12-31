@@ -44,6 +44,9 @@ a.	**The snake and the food will change color** randomly every time the user run
 ### Figure 2: Food colors
 ![Food colors](/assets/jpg/food%20color.png)
 Functionality test and Explanation of the code 
-[Functionality Test](https://www.youtube.com/watch?v=oT9RIQdWOVE&feature=youtu.be)
+[Functionality Test](https://www.youtube.com/watch?v=oT9RIQdWOVE&feature=youtu.be)         
 [Detailed Explanation of the code](https://www.youtube.com/watch?v=CAOCpaukXAw&feature=youtu.be)
+
+## 👉 Check out the project on My GitHub: 
+Click the link [here](https://github.com/chaw-thiri/Snake-game/tree/main) to see the project
 
