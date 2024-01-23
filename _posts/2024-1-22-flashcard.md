@@ -3,9 +3,7 @@ layout: post
 title: Flashcard application 🗃️
 lead: Expand your Korean vocabulary using this 
 ---
-# Flashcard Learning App🗃️
-
-## Overviewℹ️
+## Overview
 
 This is a simple flashcard learning app designed to help users practice and learn new Korean words efficiently. The app sources its initial set of words from the 1000 most frequent Korean words provided by **the National Institute of the Korean Language**. The app allows users to interact with flashcards, testing their knowledge of Korean words and removing familiar words from the practice list.
 
@@ -38,9 +36,9 @@ This is a simple flashcard learning app designed to help users practice and lear
 5. The app will save your progress in `data/new_word.csv` for future sessions.
 
 ## Contributing
-
 If you have suggestions or would like to contribute to the project, please fork the repository and submit a pull request. 
----
+
 ![Preview of a flashcard](/assets/jpg/image_Flash.png)
 ## Author
 [Chaw Thiri San](chaw.compare)
+---
