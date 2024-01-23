@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have difficulty remembering your passward🔐
-lead: Use the password manager to generate random password, store🗳️ and search🔎when you need.
+lead: Use the password manager to generate random password, store and search when you need.
 ---
 
 
