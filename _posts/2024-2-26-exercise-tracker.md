@@ -9,7 +9,7 @@ tags: [app]
 * This program helps you record your daily exercises in the Google sheet by recalculating the energy expenditure from the category and duration of your exercise.
 * ![image](/assets/jpg/ex.png)
 * Using the Nutritionix API from Syndigo University and Sheety API, the Python program and the Google sheet are permanently connected so that every record you make in this program will be saved in the Google sheet.
-![image](/assets/jpg/quiz.png)
+![image](/assets/jpg/google_sheet_exercise.png)
 
 ## Setup
 ### Environment Variables
